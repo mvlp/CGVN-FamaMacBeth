@@ -16,20 +16,15 @@ Os dados brutos são periodicamente convertidos e fornecidos em um [*website*](h
   - E-mail: marcos.vinicius@ufsj.edu.br
   - Doutor em Administração (Finanças)
 
-- **[Camila Martucheli](http://lattes.cnpq.br/9986835732512415)**  
-  - Afiliada ao Centro Universitário Universo BH
-  - E-mail: camila.martucheli@gmail.com
-  - Doutora em Administração (Finanças)
-
 - **[Simone Fonseca](http://lattes.cnpq.br/5220117639109190)**  
   - Afiliada ao DECAD/ICSA/UFOP
   - E-mail: simone.fonseca@ufop.edu.br
   - Doutora em Administração (Finanças)
 
-- **[Yuri Lopes](http://lattes.cnpq.br/1281498889191276)**  
-  - Aluno de graduação em Engenharia Mecatrônica (UFSJ)  
-  - E-mail: yuri.fnsc.lopes@gmail.com
-  - Graduando em Engenharia Mecatrônica (UFSJ)
+- **[Camila Martucheli](http://lattes.cnpq.br/9986835732512415)**  
+  - Afiliada ao Centro Universitário Universo BH
+  - E-mail: camila.martucheli@gmail.com
+  - Doutora em Administração (Finanças)
 
 ## Contribuições
 
