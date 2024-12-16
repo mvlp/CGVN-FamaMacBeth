@@ -6,7 +6,7 @@ Os dados relacionados às características de GC das empresas brasileiras de cap
 
 ## Site
 Os dados brutos são periodicamente consolidados e fornecidos em um [*website*](https://mvlp.github.io/celta/#/governance) além da disponibilização de Índices de Governança Corporativa (IGCs), estatísticas, gráficos e planilhas.
-![image](https://github.com/user-attachments/assets/61e4c3ef-792f-4117-95e7-d8377e0e57cc)
+![image](https://github.com/user-attachments/assets/3a5e8652-867d-44cc-8ee4-42964c35062a)
 
 ## Código Fonte (EM CONSTRUÇÃO)
 
